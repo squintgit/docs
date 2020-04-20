@@ -98,3 +98,5 @@ man sudo
 ```
 
 The `man` command is short for manual. You can type the `man` command in front of any command that you want more information about.
+
+To navigate a manual, you can use the <kbd>↑</kbd> and <kbd>↓</kbd> arrow keys, or the <kbd>Page Up</kbd> and <kbd>Page Down</kbd> keys. To quit a manual, press the <kbd>Q</kbd> key.
